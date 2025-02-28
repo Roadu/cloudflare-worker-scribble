@@ -15,7 +15,7 @@ app.composerAction(
   (c) => {
     return c.res({
       title: 'Scribble',
-      url: 'https://scribbleonchain.worker.dev' 
+      url: 'https://scribbleonchain.com' 
     })
   },
   {
